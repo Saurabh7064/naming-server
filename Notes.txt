@@ -1,0 +1,1 @@
+We need to register mutiple instnace into a naming serveer or service rigistry so that feign can communicate with multiple services if one service goes down, for that we are using netflix eureka
